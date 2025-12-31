@@ -1,6 +1,6 @@
 # Student CRUD App
 
-A full-stack student management application with Django REST API backend and minimal and simple frontend.
+A full-stack student management application with Django REST API backend with minimal and simple frontend.
 
 ## Features
 
